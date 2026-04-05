@@ -1,0 +1,11 @@
+## Result
+
+The Artificial Neural Network (ANN) model was successfully trained on the student dataset to predict future career paths using multi-class classification.
+
+The dataset was preprocessed by handling missing values, encoding categorical features using one-hot encoding, and scaling the input features. The model was trained using the Keras framework with multiple dense layers and softmax activation for classification.
+
+After training, the model achieved satisfactory performance on the test dataset. The evaluation metrics such as accuracy, precision, recall, and F1-score indicate that the model is capable of learning patterns from the data and making reasonable predictions.
+
+The confusion matrix shows that the model correctly classifies a significant number of instances, although some misclassifications occur due to the complexity of multiple career categories.
+
+Overall, the ANN model demonstrates the effectiveness of machine learning techniques in predicting student career outcomes based on their academic background and skill set.
